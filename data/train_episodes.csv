@@ -1,0 +1,13 @@
+start,end,rate_fps,mode
+0,23,51.9,sweep
+108,145,8.3,broadcast
+187,204,20.0,sweep
+234,252,52.6,broadcast
+336,364,14.8,broadcast
+414,427,13.3,broadcast
+480,519,11.1,sweep
+537,576,72.6,broadcast
+614,651,149.0,broadcast
+704,713,26.4,sweep
+783,810,25.1,sweep
+855,868,30.3,sweep

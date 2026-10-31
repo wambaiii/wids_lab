@@ -1,0 +1,7 @@
+|--- deauth_count <= 2.00
+|   |--- deauth_count <= 0.50
+|   |   |--- class: 0
+|   |--- deauth_count >  0.50
+|   |   |--- class: 0
+|--- deauth_count >  2.00
+|   |--- class: 1

@@ -1,0 +1,10 @@
+experiment,feature,importance
+all,frames_per_sec,0.04125295691091413
+all,deauth_count,0.4686159971168589
+all,mgmt_ratio,0.3179851367099352
+all,unique_dst,0.002825207158941955
+all,mean_rssi,0.16932070210334987
+no_deauth_count,frames_per_sec,0.12181174805581899
+no_deauth_count,mgmt_ratio,0.5983332737495222
+no_deauth_count,unique_dst,0.022541116515658925
+no_deauth_count,mean_rssi,0.25731386167899994
