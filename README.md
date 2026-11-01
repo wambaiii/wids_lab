@@ -4,7 +4,7 @@
 attack parameters are assumptions made in `make_synthetic.py`. Accuracy therefore measures how
 separable the simulated classes are, not performance on real Wi-Fi attacks.
 
-## Run (Windows PowerShell, in this folder)
+## Run 
     python -m venv venv
     venv\Scripts\activate
     pip install -r requirements.txt

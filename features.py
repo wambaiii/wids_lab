@@ -1,13 +1,4 @@
-"""
-features.py  -  STEP 2: turn frames into ML features.
-
-Idea: the classifier does not look at single frames. We group frames into
-1-second windows PER SOURCE MAC and describe each (window, device) pair with
-a few numbers. One row of the output = "what this device did in this second".
-
-Run it on its own to inspect the result:
-    python features.py data/train_frames.csv
-"""
+# Turns frames into ML features
 import sys
 
 import pandas as pd

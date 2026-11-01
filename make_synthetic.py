@@ -2,10 +2,9 @@
 make_synthetic.py  -  STEP 1: generate SYNTHETIC 802.11 frame logs.
 
 !! This is simulated traffic, NOT a real capture. Every rate, signal level and
-!! attack parameter below is an ASSUMPTION chosen for the lab, not a measurement.
-!! Say this clearly in your report.
+!! attack parameter below is an ASSUMPTION chosen for the lab, not a measurement
 
-Output (one row = one frame, like a simplified Wireshark/tshark export):
+Output (one row = one frame):
     time, src, dst, type, subtype, rssi, is_attack_frame
         type    : 0 = management, 2 = data
         subtype : (type 0) 4 = probe request, 8 = beacon, 10 = disassoc, 12 = deauth
